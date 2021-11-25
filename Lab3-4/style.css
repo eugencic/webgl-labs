@@ -1,0 +1,38 @@
+body {
+    background-color: #333a45;
+    font-size: medium;
+    color: white;
+}
+
+button {
+    color: white;
+    background: #333a45;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+.container {
+    background-color: #333a45;
+}
+
+.input {
+    background-color: white;
+}
+
+body {
+    background-color: #333a45;
+    font-size: medium;
+    color: white;
+}
+
+button {
+    color: white;
+    background: #333a45;
+    border: 2px solid white;
+}
+
+button:hover {
+    background-color: blue;
+}
